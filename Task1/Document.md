@@ -1,4 +1,4 @@
-# Oasis Infobyte Internship - Task 1: Iris Flower Classification
+# Oasis Ifobyte Internship - Task 1: Iris Flower Classification
 
 Welcome to the Oasis Infobyte Internship Program! This README file will guide you through Task 1, which involves the classification of Iris flowers using machine learning techniques. Please read this document carefully to understand the task requirements and instructions.
 
