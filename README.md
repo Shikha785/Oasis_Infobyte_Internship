@@ -14,12 +14,8 @@ Oasis InfoByte is a leading technology company that offers innovative solutions 
 2. **Project 2 - UNEMPLOYMENT ANALYSIS WITH PYTHON**:
    - Folder:`/Task2`
   
-4. **Project 4 - CAR PRICE PREDICTION WITH MACHINE LEARNING**:
-   - Folder: `/Task4`
-
-  
-5. **Project 5 - SALES PREDICTION USING PYTHON**:
-   - Folder: `/Task5`
+3. **Project 3 - SALES PREDICTION USING PYTHON**:
+   - Folder: `/Task3`
 
    
 ## Instructions
