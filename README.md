@@ -13,11 +13,7 @@ Oasis InfoByte is a leading technology company that offers innovative solutions 
 
 2. **Project 2 - UNEMPLOYMENT ANALYSIS WITH PYTHON**:
    - Folder:`/Task2`
-
-3. **Project 3 - EMAIL SPAM DETECTION WITH MACHINE LEARNING**:
-   - Folder: `/Task3`
   
-
 4. **Project 4 - CAR PRICE PREDICTION WITH MACHINE LEARNING**:
    - Folder: `/Task4`
 
